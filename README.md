@@ -10,9 +10,3 @@ Jordan Camirand ;
 Hayden Meloche
 ;
 
-echo "# DJ-Hero-Python-Simple-Sound-Mixer-" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/HaydenMeloche/DJ-Hero-Python-Simple-Sound-Mixer-.git
-git push -u origin master
